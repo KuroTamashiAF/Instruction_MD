@@ -49,3 +49,4 @@ C:\Users\Computer name\Downloads\
 Это сделать необходимо т.к Git нужны данные для ввода их в систему по примеру ниже:
 
 ![exampl](User_name_User_email.bmp)
+
