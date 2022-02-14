@@ -44,4 +44,8 @@ C:\Users\Computer name\Downloads\
 После установки Git и VS Code нам необходимо представится Git, это можно сделать командами ниже:
 > git config --global user.name - Ввод данных пользователя.
 
-> git config --global user.email - ВВод почты пользователя.
+> git config --global user.email - ВВод почты пользователя. 
+
+Это сделать необходимо т.к Git нужны данные для ввода их в систему по примеру ниже:
+
+![exampl](User_name_User_email.bmp)
