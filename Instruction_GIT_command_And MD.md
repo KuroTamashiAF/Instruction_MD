@@ -40,3 +40,8 @@ C:\Users\Computer name\Downloads\
 
 ![ghbvth](Terminal.bmp).
 
+Ввод данных пользователя и инициализация GIT (Репозиторий)
+После установки Git и VS Code нам необходимо представится Git, это можно сделать командами ниже:
+> git config --global user.name - Ввод данных пользователя.
+
+> git config --global user.email - ВВод почты пользователя.
