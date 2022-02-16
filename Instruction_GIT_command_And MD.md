@@ -314,5 +314,9 @@ git checkout master
 
 ага, видно что сейчас мы находимся в ветке master и давай в неё вольём ветку branch_of_the_git.
 
+А потом в результирующую ветку master + branch_of_the_git вольём ветку checkout_of_the_git
+
+
+
 
 
